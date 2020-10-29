@@ -2,6 +2,7 @@
 Radio programming stuffs for a Neighborhood Watch Group, West Side Alliance in St. Paul, MN
 
 ## Fleet map
+`````
 Channel 1 - MURS - Multi Use Radio Service - Streets 1 - 467.850 MHz - 100.0hz tone - Narrow
 Channel 2 - MURS - Multi Use Radio Service - Streets 2 - 467.875 MHz - 114.8hz tone - Narrow
 Channel 3 - MURS - Multi Use Radio Service - Streets 3 - 467.900 MHz - 118.8hz tone - Narrow
@@ -11,5 +12,6 @@ Channel 6 - GMRS - TAC 6 Repeater in Falcon Heights, MN - 462.650MHz - 114.8hz -
 Channel 7 - GMRS - TAC 7 / TAC 6 Talk Around (TA) on output of TAC 6 - 462.650MHz - 114.8hz - Wide
 Channel 8 - MURS - Multi Use Radio Service - TAC 8 - TAC 8 - 467.925MHz - D073N - Wide
 
-Created Oct 29, 2020 by Matt Genelin
-NNNNN
+````
+
+#### Created Oct 29, 2020 by Matt Genelin
